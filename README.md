@@ -1,4 +1,4 @@
-README.md# Offensive Security Labs 
+# Offensive Security Labs 
 
 Repositorio centralizado para la documentación, resolución y análisis técnico de laboratorios de seguridad ofensiva (PortSwigger Web Security Academy). 
 
