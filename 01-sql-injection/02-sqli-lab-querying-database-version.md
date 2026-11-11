@@ -27,7 +27,7 @@
      `' UNION SELECT @@version, NULL#`
 
 4. **Autenticación / Verificación:**
-   * La respuesta HTTP 200 proyecta directamente en el cuerpo HTML la versión del motor de base de datos (ej. `8.0.x` para MySQL o la cadena correspondiente en MS-SQL), marcando el laboratorio como completado.
+   * La respuesta HTTP 200 proyecta directamente en el cuerpo HTML la versión del motor de base de datos, marcando el laboratorio como completado.
 
 #### 3. Payload clave (PoC final)
 ```http
